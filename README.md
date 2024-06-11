@@ -1,7 +1,7 @@
 [![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)]
 <h1 align="center">Hi 👋, I'm TRIPTI GIRI</h1>
 <h3 align="center">A PASSIONATE TECH ENTHUSIAST</h3>
-<img align="right" alt="Coding width="400" src="https://giphy.com/gifs/RbDKaczqWovIugyJmW">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/RbDKaczqWovIugyJmW">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tripti-486" alt="tripti-486" /></a> </p>
 
